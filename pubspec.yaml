@@ -1,0 +1,13 @@
+name: autopark_cli
+description: CLI system for autopark and logistics.
+version: 1.0.0
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  sqlite3: ^2.4.0
+
+dev_dependencies:
+  test: ^1.24.0
+  lints: ^5.1.1
